@@ -1,10 +1,8 @@
-## Curriculum Vitae Online
-
-## Argentina Programa 4.0 + Ticmas
+## Curriculum Vitae Online - Argentina Programa 4.0 + Ticmas 
 
 # [>>> Visitar Web <<<](https://admred.github.io/cv-online)
 
-![Imagen de la web](https://github.com/admred/cv-online/images/screencap.jpg)
+![Imagen de la web](https://github.com/admred/cv-online/blob/master/images/screencap.jpg?raw=true)
 
 #### Contexto
 
