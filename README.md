@@ -1,8 +1,6 @@
 ## Curriculum Vitae Online - Argentina Programa 4.0 + Ticmas 
 
-# [>>> Visitar Web <<<](https://admred.github.io/cv-online)
 
-![Imagen de la web](https://github.com/admred/cv-online/blob/master/images/screencap.jpg?raw=true)
 
 #### Contexto
 
@@ -31,4 +29,4 @@ Tambien se vincula con recursos de 3ros, mas concretamente _google icons_ y _goo
     - API
 - git y github
 
-Fecha limite de entrega 1 febrero del 2023
+Fecha limite de entrega 1 marzo del 2023
